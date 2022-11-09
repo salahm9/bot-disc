@@ -1,0 +1,26 @@
+{
+  "name": "bot-crypto-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salahm9/Bot-crypto-discord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salahm9/Bot-crypto-discord/issues"
+  },
+  "homepage": "https://github.com/salahm9/Bot-crypto-discord#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
